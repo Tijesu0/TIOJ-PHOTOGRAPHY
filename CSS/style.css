@@ -1,0 +1,493 @@
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    transition: background-color 0.3s; /* Apply smooth transition effect */
+}
+
+/* Dark mode */
+
+body.dark-mode {
+  background-color: #000000; /* Dark mode background color */
+}
+
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 40px;
+  height: 20px;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 16px;
+  width: 16px;
+  left: 2px;
+  bottom: 2px;
+  background-color: white;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: black;
+}
+
+input:checked + .slider:before {
+  transform: translateX(20px);
+}
+
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+  .text-change{
+    color: white;
+  }
+ .text-change:hover{
+  color: white;
+ }
+ 
+/* Dark Mode End */
+
+
+  
+  
+
+h1,
+h2,
+h4,
+.fw-bold {
+    font-weight: 800 !important;
+    color: black;
+}
+
+h3,
+h4,
+.fw-semi-bold {
+    font-weight: 700 !important;
+}
+
+h5,
+h6,
+.fw-medium {
+    font-weight: 600 !important;
+}
+p{
+    color: black;
+}
+
+
+
+
+/* Button Section */
+.btn {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    transition: .5s;
+}
+.btn{
+    border: 1px solid burlywood;
+    color: burlywood;
+}
+
+ .btn:hover{
+    border: 1px solid #4a4a4a;
+    background-color: burlywood;
+    color: black;
+}
+.btn-hov:hover{
+    background-color: silver;   
+    color: black;
+}
+
+.btn-bla{
+    color: black;
+    border-color: black;
+}
+.btn-black{
+    color: burlywood;
+    border-color: black;
+    background-color: black;
+}
+.btn-black:hover{
+    color: burlywood;
+    border-color: rgba(0, 0, 0, 0.935);
+    background-color:rgba(0, 0, 0, 0.935) ;
+}
+
+.btn-bla:hover{
+    background-color: black;   
+    color: burlywood;
+
+
+}
+ /* Button Section End */
+
+
+
+  /* Navigation Section */
+.navbar-nav .nav-link{
+    margin-left: 10px;
+    padding: 35px 0;
+    color:white;
+    
+    font-size: 18px;
+    font-weight: 600;
+    outline: none;
+    transition: .5s;
+}
+
+.navbar {
+    position: relative;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    color: white;
+}
+
+ .navbar-nav .nav-link:hover{
+    color: burlywood;
+}
+
+  .navbar-brand h1{
+    color: white;
+}
+ .navbar-toggler {
+    color: burlywood ;
+    border-color: burlywood;
+}
+a{
+  color:black;
+ }
+ a:hover{
+  color: black;
+ }
+
+
+.nav-tabs{
+width: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.nav-tabs .nav-link{
+    margin-bottom: 4px;
+}
+
+.navbar.navbar-custom {
+    background-color: rgba(0, 0, 0, 0.857);
+  
+  }
+  /* Navigation Section End */
+
+.tab-content{
+    margin-top: 3rem;
+}
+
+
+/* Carousel Section */
+.carousel-caption {
+  top: 40%;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: fit-content;
+  z-index: 1;
+}
+
+
+.headline {
+  font-size: 60px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color:white;
+}
+
+.subheadline {
+  font-size: 24px;
+  margin-bottom: 30px;
+  color:white;
+}
+
+.caption-items{
+  max-width: 900px;
+}
+.carousel-item img{
+    height: 100vh;
+}
+
+
+
+
+@media (max-width: 576px) {
+    .carousel-caption h5 {
+        font-size: 14px;
+        font-weight: 500 !important;
+    }
+
+    .carousel-caption h1 {
+        font-size: 30px;
+        font-weight: 600 !important;
+    }
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: 10%;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    width: 3rem;
+    height: 3rem;
+}
+/* Carousel Section End */
+
+
+
+
+
+
+
+/* About Section */
+
+.ab-row-reverse{
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+}
+.about-content .btn{
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+}
+.about-content .btn:hover{
+    border: 1px solid burlywood;
+    background-color: burlywood;
+    color: black;
+}
+
+
+
+/* About Section End */
+
+
+
+
+
+ /* Services Section */
+
+
+
+
+ .services-section {
+  padding: 20px;
+}
+
+.pricing-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: linear-gradient(180deg, #4a4a4a 0%, black 100%);
+  border:2px solid #4a4a4a;
+  border-radius: 20px;
+  padding: 20px;
+   margin: 5px auto;
+  text-align: center;
+}
+
+
+.pricing-card h3 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+p span {
+    font-size: 40px;
+    font-weight: bold;
+   
+  }
+
+  .border-line{
+    width: 100%;
+    border-top: 2px solid black;
+    border-radius: 5px;
+    margin: 10px 0;
+  }
+
+  .color-white{
+    color: white;
+  }
+
+.pricing-button {
+  background-color: black;
+  color: white;
+}
+.pricing-list {
+  list-style-type: none;
+  padding-left: 0;
+  text-align: left;
+}
+.pricing-list li:before {
+  content: "\2713";
+  margin-right: 5px;
+}
+
+/* Pricing Section End */
+
+
+
+
+
+.black{
+    color: black;
+}
+.black:hover{
+    color: black;
+}
+
+
+  
+
+
+
+  /* portfolio Section*/
+
+.nav-tabs{
+  display: flex;
+  border-bottom:none;
+}
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+  border:2px solid burlywood;
+  background-color: black;
+  color: white;
+}
+
+
+  .portfolio-section a {
+          color: burlywood;
+          transition: 0.5s;
+        }
+
+        .portfolio-section a:hover{
+          color: burlywood;
+        }
+
+ 
+
+  
+  .gallery-item {
+    overflow: hidden;
+    height: 100%;
+    max-width: max-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+  
+    
+  }
+
+
+ .gallery-item img {
+    margin: 10px 0;
+    width: 100%;
+    height: auto;
+    transition: 0.5s;
+    &:hover {
+      transform: scale(0.98);
+      cursor: pointer;
+    }
+ }
+
+  .image-container {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    height: fit-content;
+  }
+
+  .image-container img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.438); /* Adjust the transparency here */
+    opacity: 0;
+    transition: opacity 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    pointer-events: none; /* Allows the image to be clickable even when the overlay is visible */
+    transition: 0.5s;
+  }
+  .overlay p{
+    color: burlywood;
+  }
+
+  .image-container:hover .overlay {
+    opacity: 1;
+    transform: scale(0.98);
+    cursor: pointer;
+  }
+  /* Portfolio Section End */
+
+
+
+  
+
+/* Contact Section */
+
+.input-style{
+  background-color:#2a2a2a;
+  border: none;
+  border-bottom: 2px solid white;
+  color: white; 
+  border-radius: 5px;
+}
+
+/* Contact Section End */
+
+
+ 

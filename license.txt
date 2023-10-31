@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Template License</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.5;
+      margin: 20px;
+    }
+    h1 {
+      font-size: 24px;
+    }
+    p {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Template License</h1>
+  <p>By using this template, you agree to the terms and conditions set forth in this license agreement.</p>
+  
+  <h2>License Agreement</h2>
+  <p>This template is licensed under the following terms and conditions:</p>
+  <ol>
+    <li>You are allowed to use this template for personal and commercial projects.</li>
+    <li>You may modify the template according to your project requirements.</li>
+    <li>You are not allowed to redistribute or sell this template without prior permission.</li>
+    <li>This template is provided "as is," without warranty of any kind, express or implied.</li>
+    <li>We are not liable for any damages or losses arising from the use or inability to use this template.</li>
+  </ol>
+
+  <h2>Attribution</h2>
+  <p>If you use this template, you are required to provide attribution by including the following information:</p>
+  <pre>Tioj Photography; by Favour Ojo;</pre>
+
+
+  <h2>Contact Information</h2>
+  <p>If you have any questions or need further clarification regarding this license agreement, please contact us at:</p>
+  <p>Email: [favourojo900@gmail.com]</p>
+  
+</body>
+</html>

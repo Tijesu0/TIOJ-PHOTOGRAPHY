@@ -1,0 +1,532 @@
+
+
+# Tioj Photography Documentation
+
+## Table of Contents
+
+1. Introduction
+   - About Tioj Photography
+   - Features
+   - Browser Compatibility
+2. Getting Started
+   - Installation
+   - Customization
+3. Sections
+   - Homepage
+   - About Page
+   - Pricing Page
+   - Portfolio Page
+   - Contact Page
+4. Frequently Asked Questions (FAQ)
+5. Troubleshooting
+6. Contact and Support
+7. Changelog
+8. Credits
+
+## 1. Introduction
+
+### About Tioj Photography
+
+
+"Tioj Photography" is a visually stunning photography web template designed to showcase the artistry of photographers and creatives. With its sleek and modern design, "Tioj Photography" offers a professional online presence to display your portfolio, attract clients, and tell your story. This template is perfect for photographers, visual artists, and creatives looking to create an impactful online presence.
+
+**Key Features:**
+
+- **Homepage with Slideshow Hero:** The homepage features a captivating slideshow hero section that highlights your best work. The template is designed to make an immediate visual impact on visitors.
+
+- **User-Friendly Navigation:** A fixed navbar ensures easy navigation as visitors explore your site. It's sleek and unobtrusive, providing quick access to all site sections.
+
+- **About Section:** Share your story and introduce yourself with a compelling about section. Combine text and imagery to connect with your audience.
+
+- **Pricing Section:** Offer clients transparent pricing options with beautifully designed pricing cards. It's easy for visitors to understand your services and rates.
+
+- **Portfolio Showcase:** The template includes a dynamic portfolio section that lets you showcase your photography work with style and elegance. This is where your visuals truly shine.
+
+- **Contact Form:** Engage with potential clients through a well-designed contact section, including a contact form. Make it easy for people to reach out to you.
+
+- **Responsive Design:** "Tioj Photography" is responsive and works seamlessly on various devices and screen sizes, ensuring that your work looks great everywhere.
+
+- **WOW.js and Animate.css:** Add a touch of animation and interactivity to your website with WOW.js and Animate.css, creating an engaging user experience.
+
+"Tioj Photography" is more than a template; it's a visual storytelling platform. Use it to build a stunning photography website that leaves a lasting impression and draws clients to your work. With its user-friendly layout and elegant design, this template is the perfect canvas to showcase your photography portfolio.
+
+
+
+### Features
+- Slideshow Hero Section: Captivate visitors with a stunning slideshow hero section on the homepage, showcasing your best photography work.
+- Fixed Navbar: The user-friendly and unobtrusive fixed navbar ensures easy navigation throughout the website.
+- Light And Dark Mode: Freely toggle between light and dark mode 
+- About Section: Create a compelling about section with the ability to combine text and images to tell your unique story.
+- Pricing Section: Display transparent pricing options through beautifully designed pricing cards for your photography services.
+- Portfolio Showcase: Present your photography portfolio in an elegant and dynamic layout, allowing your visual work to shine.
+- Contact Form: Engage with potential clients using a well-designed contact section, complete with a contact form for inquiries.
+- WOW.js and Animate.css: Add engaging animations and interactive elements to your website, enhancing the user experience.
+- About Page: Seamlessly transition to the about page, which replicates the homepage's about section, ensuring a consistent design and user experience.
+- Portfolio Page: The portfolio page is an extension of the homepage portfolio showcase, allowing you to present a wide range of your photography work.
+- User-Friendly and Elegant: The design prioritizes elegance and user-friendliness, making it easy for visitors to appreciate your work.
+- Responsive Design: Tioj Photography is fully responsive, ensuring your photography website looks and functions perfectly on various devices and screen sizes.
+- User-Friendly and Elegant: The design prioritizes elegance and user-friendliness, making it easy for visitors to appreciate your work.
+- Visually Impactful Design: The template is designed with photographers in mind, providing a visually impactful platform to showcase your photography.
+- Portfolio Flexibility: The portfolio section offers the flexibility to display a diverse range of photography styles and subjects.
+- Optimized for Image Display: "Captura" is optimized to ensure that your high-resolution images are displayed at their best, preserving image quality.
+- Client Engagement: The template allows you to effectively engage with potential clients through a professional and inviting online presence.
+
+
+
+### Browser Compatibility
+
+- Google Chrome: This template is fully compatible with the latest versions of Google Chrome, ensuring a smooth and responsive experience for users on this popular browser.
+- Mozilla Firefox: This template is designed to work seamlessly on Mozilla Firefox, allowing users to access and enjoy your photography website without issues.
+- Apple Safari: This template is fully compatible with Apple Safari, providing a consistent and well-functioning experience for users on Mac devices.
+- Microsoft Edge: Users accessing your website through Microsoft Edge will have a responsive and trouble-free experience, as the template is optimized for this browser.
+- Opera: This template is designed to work correctly on the Opera browser, ensuring cross-browser compatibility for a wide audience.
+- Internet Explorer: While Internet Explorer has become less commonly used, This template includes compatibility for older versions of this browser to accommodate a diverse range of users.
+- Mobile Browsers: This template is responsive and mobile-friendly, ensuring compatibility with mobile browsers like Safari on iOS devices and Chrome on Android devices. It adapts to various screen sizes for a seamless mobile experience.
+
+
+
+
+
+
+
+
+
+
+## 2. Getting Started
+
+### Installation
+
+ Here are step-by-step instructions on how to install your photography web template, including any server or hosting requirements:
+
+**Installation Requirements:**
+
+Before you begin, make sure you have the following prerequisites in place:
+
+1. **Web Hosting:** You'll need web hosting to publish your website. If you don't have hosting, consider using a service like Bluehost, SiteGround, or any other web hosting provider of your choice.
+
+2. **Domain Name:** You should have a domain name ready or purchased to point to your hosting server.
+
+3. **Text Editor:** You'll need a code editor to make any necessary changes to the template files. Editors like Visual Studio Code, Sublime Text, or Atom are recommended.
+
+**Step-by-Step Installation:**
+
+1. **Download the Template:**
+   - After purchasing the template from ThemeForest, download the template files to your computer.
+
+2. **Extract the Template:**
+   - Unzip the downloaded file to access the template files and folders.
+
+3. **Upload to Hosting Server:**
+   - Use an FTP client (e.g., FileZilla) to connect to your hosting server.
+   - Upload the extracted template folder to your web hosting's root directory or a subdirectory if you prefer.
+
+4. **Domain Configuration:**
+   - If you haven't already, configure your domain to point to the hosting server. This typically involves setting up DNS records with your domain registrar.
+
+5. **Database Configuration (if applicable):**
+   - If your template includes database functionality, follow the instructions provided with the template to set up the database.
+
+6. **Edit Configuration Files:**
+   - In your code editor, open the template's configuration files (e.g., config.js or config.php). These files may contain settings such as your website title, contact email, and social media links.
+   - Modify these settings according to your requirements.
+
+7. **Customize Content:**
+   - Replace the template's placeholder content with your own text, images, and portfolio items. These changes are typically made in the HTML and CSS files provided.
+
+8. **Testing Locally:**
+   - To test your website locally before going live, you can use a local server environment like XAMPP or MAMP. Set up the template on your local server to preview your changes.
+
+9. **Upload Additional Assets:**
+   - If your template requires additional assets (images, fonts, etc.), upload them to the appropriate directories on your server.
+
+10. **Testing and Debugging:**
+    - Thoroughly test your website on different devices and browsers to ensure everything functions as expected.
+
+11. **Go Live:**
+    - Once you're satisfied with your website, remove any under-construction or maintenance pages from your hosting server, and your "Captura" photography website will be live.
+
+
+
+
+
+
+
+
+
+### Customization
+
+ Here's a guide on how users can customize the template, including available options such as colors, fonts, and images:
+
+**Customization Options:**
+
+1. **Color Scheme:**
+   - The template uses a default color scheme, but you can easily customize it to match your brand or personal style. To change colors, follow these steps:
+     - Open the CSS file  named "style.css" in your code editor.
+     - Locate the color variables or CSS rules for the elements you want to change (e.g., background colors, text colors, buttons).
+     - Replace the existing color codes with your desired colors (in hexadecimal, RGB, or other valid formats).
+
+2. **Typography:**
+   - Tioj Photography allows you to adjust typography and fonts. To change fonts, follow these steps:
+     - Open the CSS file.
+     - Locate the font-family property within CSS rules.
+     - Replace the default font with your preferred font choice. You may need to include a font link from Google Fonts or another source to use custom fonts.
+
+3. **Images and Media:**
+   - The template comes with placeholder images and media. To customize these with your own content, follow these steps:
+     - Replace the placeholder images in the template with your own high-quality photos.
+     - Ensure that your images are optimized for the web to maintain fast loading times.
+     - Update image filenames and paths in the HTML and CSS to reflect your changes.
+
+4. **Content:**
+   - Replace all placeholder text and content with your own. To update the content, follow these steps:
+     - Open the HTML files in your code editor.
+     - Locate and replace the text within the HTML tags, such as headings, paragraphs, and links.
+     - Customize the text in the about section, pricing details, portfolio descriptions, and contact information.
+
+5. **Layout and Structure:**
+   - If you want to make structural changes to the template, it's recommended to have some knowledge of HTML and CSS. You can adjust layout elements, add new sections, or modify the existing structure to suit your preferences.
+
+6. **Animations (WOW.js and Animate.css):**
+   - You can further customize the animations provided by WOW.js and Animate.css. To do this, review the JavaScript and CSS files associated with these libraries and make adjustments to animation triggers, types, and durations.
+
+7. **Contact Form :**
+   - This template includes a contact form, you can configure it by editing the form's settings in the HTML and JavaScript files. Make sure to specify the recipient email address for form submissions.
+
+8. **Social Media Links:**
+   - Update the template with your social media links by modifying the URLs in the respective sections. Ensure the icons or text labels match the platforms you use.
+
+**Best Practices:**
+
+- Regularly preview your changes to ensure they appear as expected in different browsers and devices.
+- Keep backups of the original template files in case you need to revert to the default design.
+- Test user interactions, forms, and navigation to ensure everything functions correctly.
+
+By following these customization options, the user can tailor the Tioj Photography template to create a website that reflects their unique style, brand, or photography portfolio.
+
+
+
+
+
+
+
+
+## 3. SECTIONS
+
+### Homepage
+
+ Here are instructions on how to customize the various sections of the homepage in this photography web template, including the hero section, navbar, about section, prices section, portfolio, contact section, and footer:
+
+**Customizing the Hero Section:**
+
+1. **Changing the Background Image:**
+   - Locate the HTML file responsible for the hero section. It may be named "index.html" or something similar.
+   - Within the hero section, find the `<div>` or HTML element that sets the background image. This is often defined using a CSS class or inline styles.
+   - Replace the existing background image source with the URL of your preferred image.
+
+2. **Editing Text and Titles:**
+   - Within the hero section, you'll find text elements, such as headings and descriptions. These are typically located within HTML tags like `<h1>`, `<h2>`, or `<p>`.
+   - Edit the text content within these tags to reflect your brand or message.
+
+**Customizing the Navbar:**
+
+3. **Editing Navigation Links:**
+   - Open the HTML file responsible for the navbar, often named "index.html" or "header.html."
+   - Find the navigation links, typically listed within an `<ul>` (unordered list) with `<li>` (list item) elements.
+   - Update the link text and the `href` attribute to point to the pages or sections you want in your navigation menu.
+
+4. **Customizing the Logo:**
+   - If your template includes a logo, locate the logo image file in the template directory (commonly in an "img" folder).
+   - Replace the existing logo image with your custom logo. Make sure to update the `src` attribute in the HTML file if necessary.
+
+**Customizing the About Section:**
+
+5. **Text and Images:**
+   - Open the HTML file for the about section  named "About.html".
+   - Replace the placeholder text and images with your own content.
+   - Adjust the structure and layout as needed.
+
+**Customizing the Prices Section:**
+
+6. **Pricing Cards:**
+   - Access the HTML file for the prices section (typically "prices.html").
+   - Modify the pricing cards to reflect your service offerings. Update the titles, descriptions, prices, and any features associated with each pricing plan.
+
+**Customizing the Portfolio:**
+
+7. **Updating Images:**
+   - In the HTML or data file used for the portfolio section (e.g., "portfolio.html" or "portfolio.json"), replace the URLs of placeholder images with the URLs of your own photography portfolio images.
+   - Ensure the new images are properly optimized and follow a consistent naming convention.
+   - Ad mor images as needed by adding another tab 
+   i.e
+   
+    <div class="tab-pane fade" id="Personal" role="tabpanel" aria-labelledby="tabCategory2"></div>
+
+    and adding it to the "tab-content"
+    i.e
+    <div class="tab-content" id="galleryTabContent">
+    
+     <div class="tab-pane fade" id="Personal" role="tabpanel" aria-labelledby="tabCategory2"></div>
+
+    </div>
+
+**Customizing the Contact Section:**
+
+8. **Contact Form **
+   - If your template includes a contact form, open the HTML file and locate the contact section .
+   - Configure the form by specifying the recipient email address and any form field labels or placeholders.
+   - Make sure the form's action attribute points to a server-side script for handling form submissions (e.g., PHP or a similar language).
+
+**Customizing the Footer:**
+
+9. **Footer Content:**
+   - Open the HTML file for the footer .
+   - Update the footer content, which may include copyright information, additional navigation links, or other relevant details.
+
+**Testing and Preview:**
+
+After making customizations to each section, it's crucial to preview your homepage on different devices and browsers to ensure that the design and functionality remain consistent.
+
+By following these steps, users can easily customize the different sections of the homepage in the Tioj Photography template to create a personalized and visually appealing photography website.
+
+
+
+### ABOUT PAGE
+
+Setting up the about page  is an essential step in personalizing your website and sharing your story. Here's how to do it, including any unique design elements:
+
+**Setting Up the About Page:**
+
+1. **Access the About Page:**
+   - Locate the HTML file dedicated to the about page. This file is  named About.html.
+
+2. **Customize Text Content:**
+   - Within the "about.html" file, you'll find sections for text content. These typically include headings, paragraphs, and potentially lists.
+   - Replace the placeholder text with your own biography, background, and any information you want to share with visitors.
+
+3. **Insert Images:**
+   - If your about page includes images, ensure you have high-quality photos for your profile picture or any other images you wish to include.
+   - Insert the images into the HTML file using appropriate HTML tags, such as `<img>`.
+
+4. **Design Elements:**
+   - The  template may include unique design elements for the about page, such as elegant typography, dividers, or background styling.
+   - Customize these design elements in the CSS file. You can adjust font styles, colors, and layout to match your branding or personal preferences.
+
+5. **About Section Animation (if applicable):**
+   - If there are animations or other dynamic elements in the about section, you can customize their behavior in the JavaScript file, adjusting animation triggers or styles as needed.
+
+6. **Additional Information:**
+   - Include any additional information or sections that you'd like to share on your about page. This could include your photography journey, awards, or personal philosophy.
+
+7. **Link to the About Page:**
+   - Ensure that there is a clear and user-friendly way for visitors to access the about page. This is typically done by including a link in your navigation menu, and you should also include the page in your site's overall navigation structure.
+
+**Unique Design Elements:**
+
+- **Typography:** Use elegant and readable typography to present your about page content. Customize fonts, font sizes, and text styles to match your branding.
+
+- **Background Styling:** You can incorporate background images or patterns to add depth and visual interest to your about page.
+
+- **Image Placement:** Pay attention to image placement and use design techniques such as rounded images or custom borders to enhance the visual appeal of your about page.
+
+- **Animations:** You can incorporate subtle animations to draw attention to certain elements on the page or to enhance user engagement.
+
+- **Consistency:** Ensure that the design elements used on the about page are consistent with the overall design of your website to maintain a coherent visual identity.
+
+- **Whitespace:** Utilize appropriate whitespace to create a clean and organized layout, making your about page easy to read and navigate.
+
+By following these steps and customizing the about page with your own content and design elements, you can create a compelling and visually appealing section that shares your story and engages your visitors effectively.
+
+
+
+### PORTFOLIO PAGE
+
+ Here's how users can populate the portfolio section with their own images and additional details do this in your Tioj Photography photography web template:
+
+**Populating the Portfolio Section:**
+
+1. **Access the Portfolio Section:**
+   - Locate the HTML file or data file dedicated to the portfolio section. This file is named "portfolio.html" 
+
+2. **Prepare Images:**
+   - Users should have their high-quality and optimized photography images ready for uploading. Ensure that the images are properly named and organized in a directory for easy access.
+
+3. **Insert Images:**
+   - Open the "portfolio.html"  file in your code editor.
+   - Replace the placeholder image URLs with the URLs of their own images. Use the HTML `<img>` tag to insert images in the HTML file. 
+
+4. **Image Descriptions (if applicable):**
+   - If the portfolio section includes image descriptions or additional details about each photo, users can add this information in the HTML  file. Use appropriate HTML elements (e.g., `<p>`, `<span>`) to include captions, titles, or descriptions for each image.
+
+5. **Image Categories or Tags (if applicable):**
+   - If your template allows users to categorize their portfolio images, provide instructions on how to add categories or tags to each image. This could involve adding specific data attributes or tags to the image elements.
+
+6. **Customization of Portfolio Grid (if applicable):**
+   - If users want to customize the layout of their portfolio grid, they may need to access the CSS file to adjust the grid structure, spacing, or other design elements.
+
+**Additional Tips:**
+
+- **Image Optimization:** Remind users to optimize their images for the web to ensure fast loading times and an optimal user experience.
+
+- **Consistency:** Encourage users to maintain consistency in image sizes and aspect ratios to create a cohesive portfolio.
+
+- **Alternate Text (Alt Text):** Remind users to include descriptive alt text for each image for accessibility and SEO purposes.
+
+- **Responsive Design:** Ensure that the portfolio section is responsive, so images display properly on various devices and screen sizes.
+
+- **Testing:** Advise users to thoroughly test their portfolio section to make sure all images are displayed correctly and that any links or filters work as expected.
+
+- **Lightbox or Modal (if applicable):** If the template includes a lightbox or modal for image viewing, users should ensure it works with their customized portfolio images and descriptions.
+
+
+
+
+
+## 4. Frequently Asked Questions (FAQ)
+
+Certainly, here are some common questions that users of this photography web template might have, along with answers specific to their template's usage:
+
+**1. How do I change the color scheme of my website?**
+   - To change the color scheme, open the CSS file and locate the color variables. You can replace these variables with your desired color codes to match your branding.
+
+**2. Can I add more sections to the template?**
+   - Yes, you can add more sections or pages to the template. Duplicate an existing page, customize it, and make sure to update the navigation menu to include the new section.
+
+**3. How do I customize the animations on the website?**
+   - You can customize animations by modifying the JavaScript file responsible for animations. Adjust the animation triggers, types, and durations as needed.
+
+**4. What's the best way to optimize my images for the web?**
+   - It's crucial to optimize images for web use. Use image editing software or online tools to resize and compress images while maintaining quality. Aim for a balance between image size and quality to ensure fast loading times.
+
+**5. Can I integrate a blog or additional features into this template?**
+   - While "Tioj Photography" is primarily designed for photography portfolios, you can add a blog or other features. However, this may require additional development work and customization.
+
+**6. How do I set up a custom domain for my website?**
+   - To use a custom domain, you need to purchase a domain name from a domain registrar. Then, configure the DNS settings to point to your hosting server. This process can vary depending on your domain registrar.
+
+**7. Is there a built-in contact form, and how do I set it up?**
+   - If the template includes a contact form, you can configure it by editing the form settings in the HTML file. Make sure to specify the recipient email address and ensure the form's action attribute points to a server-side script for handling form submissions (e.g., PHP or a similar language).
+
+**8. How can I ensure my website looks good on mobile devices?**
+   - "Tioj Photography" is designed to be responsive, but it's essential to test your website on various mobile devices and screen sizes. Ensure that text is legible, images are properly sized, and all interactive elements are accessible on mobile.
+
+**9. Can I change the order of sections on the homepage?**
+   - You can rearrange sections on the homepage by editing the HTML file. Simply cut and paste the code blocks for sections to change their order.
+
+**10. How do I enable and customize the light and dark mode toggle?**
+   - To enable and customize the light and dark mode toggle, you should edit the HTML, CSS, and JavaScript files responsible for the toggle. You can adjust the styles, behavior, and default mode as per your preference.
+
+**11. How can I make my images load faster on the website?**
+   - To optimize image loading speed, ensure that images are properly resized, compressed, and that you use the `srcset` attribute for responsive images. Additionally, consider using lazy loading to load images only when they come into the viewport.
+
+
+
+## 5. Troubleshooting
+
+Here are solutions for some common issues that users might encounter while setting up or customizing our photography web template:
+
+**1. Images are not displaying properly:**
+   - Check that the image file paths in your HTML and CSS files are correct.
+   - Ensure that the image files exist in the specified directories on your server.
+   - Verify that image filenames are spelled correctly and include the correct file extensions (e.g., .jpg, .png).
+
+**2. Custom fonts or typography changes are not taking effect:**
+   - Double-check that you've included the correct font files and stylesheets in your template.
+   - Make sure the CSS classes for text elements are consistent with your font choices.
+   - Clear your browser cache to ensure new styles are loaded.
+
+**3. Mobile responsiveness issues:**
+   - Review your CSS for any fixed or rigid element sizing. Use responsive units like percentages or "em" to ensure elements adapt to various screen sizes.
+   - Test your template on different mobile devices to identify and address specific issues.
+
+**4. Problems with the light and dark mode toggle:**
+   - Verify that the JavaScript code controlling the toggle is correctly implemented in your template.
+   - Check the HTML structure and JavaScript event listeners for the toggle button to ensure it's functional.
+   - Make sure your CSS styles for both light and dark modes are defined correctly and that the toggle button updates the styles accordingly.
+
+**5. Navigation menu items are not linking correctly:**
+   - Confirm that the href attributes in your navigation menu match the filenames of the pages you've created.
+   - Check that your pages are in the correct directories on your server.
+   - Ensure the file extensions in the href attributes match the file types of your pages (e.g., .html, .php).
+
+**6. Contact form not working:**
+   - Verify that the action attribute in the HTML form element points to the correct server-side script responsible for handling form submissions.
+   - Ensure that your web hosting supports the server-side language used for form handling (e.g., PHP).
+   - Check for any JavaScript errors that might prevent the form from submitting successfully.
+
+**7. Slow page loading times:**
+   - Optimize your images for the web by compressing and resizing them.
+   - Use the `srcset` attribute for responsive images to serve appropriate image sizes to different devices.
+   - Implement lazy loading for images to improve page load speed.
+
+**8. Browser compatibility issues:**
+   - Test your website on various browsers to identify specific issues.
+   - Utilize browser-specific CSS rules or JavaScript polyfills to address compatibility problems.
+
+**9. Layout or design inconsistencies:**
+   - Ensure that your CSS selectors are consistent and that they match elements in your HTML.
+   - Keep an eye out for conflicting CSS rules that might impact the overall layout and design.
+   - Validate your HTML and CSS code to identify any errors.
+
+**10. The website doesn't work on certain hosting environments:**
+    - Confirm that your hosting environment meets the technical requirements for your template.
+    - Ensure that server-side scripts are supported, if necessary for specific functionality.
+    - Check for any .htaccess or server configuration issues that might affect the website's performance.
+
+
+
+## 6. Contact and Support
+
+**Contact Information:**
+1. **Email Support:** Contact us @ favourojo900@gmail.com.
+
+
+## 7. Changelog
+
+
+**Changelog for Tioj Photography Photography Web Template**
+
+**Version 1.0.0 - [10/23/2023]**
+- Initial release of the Tioj Photogtaphy template.
+- Features:
+  - Home page with slideshow hero section, about section, pricing section, portfolio showcase, contact section, and footer.
+  - About page with about section, pricing section, and footer.
+  - Portfolio page mirroring the homepage's portfolio showcase.
+  - Light and dark mode toggle.
+  - Responsive design for mobile and desktop.
+
+
+
+## 8. Credits
+
+Attribution is important when using third-party resources, tools, or libraries in your web template. Here's a sample credit section you can include in your template's documentation to give credit to the sources and developers of these assets:
+
+---
+
+**Third-Party Resources and Attributions**
+
+Tioj Photography photography web template makes use of various third-party resources, tools, and libraries to enhance its functionality and appearance. We'd like to acknowledge and give credit to the following:
+
+- **Bootstrap (Version 5.0.0)**:
+  - Source: [https://getbootstrap.com/](https://getbootstrap.com/)
+  - License: MIT License
+  - Description: Bootstrap provides the foundation for our template's responsive layout and component styling.
+
+- **Wow.js **:
+  - Source: [https://wowjs.uk/](https://wowjs.uk/)
+  - License: MIT License
+  - Description: Wow.js is used to implement the stunning entrance animations in various sections of the template.
+
+- **Animate.css **:
+  - Source: [https://animate.style/](https://animate.style/)
+  - License: MIT License
+  - Description: Animate.css is employed to create smooth and captivating animations throughout the template.
+
+- **[pexels]**:
+  - Source: [pexels.com]
+  - License: [License type, e.g., Creative Commons, Public Domain]
+  - Description: Certain images used in the template are sourced from [Name of Image Source]. Please refer to their terms and conditions for usage details.
+
+We greatly appreciate the work of the developers and contributors of these resources, which have helped us create Tioj Photography and deliver its features and aesthetics.
+
+---
+
